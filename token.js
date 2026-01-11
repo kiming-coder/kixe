@@ -1,1 +1,10 @@
-# kixe
+{
+  "tokens": [
+    "7475787759:AAElyFUsOj5_wM4_k5y5EWP9zrDbJOsEzBs",
+    "7883887168:AAHl-lWYsMmDUtDkC76Hl1y8QvheGOSagV0",
+    "8361508423:AAFtn8IyVF-_qgOfp0HuRH16mFhWOvktztE",
+    "7514349017:AAEpougYDLVdCmfjYiSJ_TW11eTcEthtj6Y",
+    "8440270256:AAG6pX5CjphKugzxfTQB1Pf-opTuXJJMztM",
+    "8330927135:AAHUaqSNfzvVixhwL_u_WDEhWnKmXnYjn9E"
+  ]
+}
